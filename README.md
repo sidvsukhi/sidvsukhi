@@ -6,9 +6,9 @@
 
 <h3 align="center">About me 🤨</h3>
 <p align="center">
-I am a Software Developer from Pune, India. 🤓</br>
-I'm currently working at Mortgagekart as a SDE. 👨‍💻</br>
-I have projects in Python, OOPS, SQL, ML, Flask and Nodejs. 💻</br>
+  I am a <b>Software Developer</b> from Pune, India. 🤓</br>
+I'm currently working at <b>Mortgagekart as a SDE</b>. 👨‍💻</br>
+I have projects in <b>Python, OOPS, SQL, ML, Flask and Nodejs</b>. 💻</br>
 Feel free to contact. 📱
 </p>
 
@@ -25,4 +25,5 @@ Feel free to contact. 📱
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/javascript.svg" width="25" height="25"/>
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/mysql.svg" width="25" height="25"/>
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/postgresql.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/tf.png" width="25" height="25"/>
 </p>
