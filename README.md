@@ -6,7 +6,6 @@
 
 <h3 align="center">Tools 🛠️ and Technologies 💻</h3>
 <p align="center">
-  
 </p>
 
 
