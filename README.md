@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"/>
 </p>
 
+<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/line.png" width="1000" height="100"/>
+
 <h3 align="center">About me 🤨</h3>
 <p align="center">
   I'm a <b>Software Developer</b> from Pune, India. 🤓</br>
