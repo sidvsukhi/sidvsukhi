@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Siddhant 😎</h2>
+<h1 align="center">Hi, I am Siddhant 😎</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
@@ -33,9 +33,10 @@
 
 <h3 align="center">Interests 🤩</h3>
 <p float="left">
-  <img float="right" src="https://media.giphy.com/media/j3HQ1zWosr1NS/giphy.gif">
-  📺 Binge watching movies/series
-  🎢 Adventure activites
-  🎮 Sports and Gaming
-  🍔 Foodie <br/> 🎼 Music <br/> </p>
+  📺 Binge watching movies/series <br/>
+  🎢 Adventure activites <br/>
+  🎮 Sports and Gaming <br/>
+  🍔 Foodie <br/> 
+  🎼 Music <br/> </p>
 </p>
+<img float="right" src="https://media.giphy.com/media/j3HQ1zWosr1NS/giphy.gif">
