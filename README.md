@@ -19,7 +19,7 @@
   <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/postresql.svg">
 </p>
 
-
+<!---
 <p align="center">
 - 🔭 I’m currently working on ...<br/>
 - 🌱 I’m currently learning ...<br/>
@@ -30,7 +30,6 @@
 - 😄 Pronouns: ...<br/>
 - ⚡ Fun fact: ...
 </p>
-
 <h3 align="center">Interests 🤩</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/j3HQ1zWosr1NS/giphy.gif"> <br/>
@@ -40,3 +39,4 @@
   🍔 Foodie <br/> 
   🎼 Music <br/> </p>
 </p>
+--->
