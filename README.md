@@ -1,23 +1,31 @@
-<h1 align="center">Hi, I am Siddhant 😎</h1>
+<h2 align="center">Hi, I am Siddhant 😎</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 </p>
 
-<h3 align="center">Tools 🛠️ and Technologies 💻</h3>
+<h3 align="center">About me 🤨</h3>
 <p align="center">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/c.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/cpp.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/java-original.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/python-original.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/html5.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/css.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/nodejs.jpg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/flask.png">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/javascript.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/mysql.svg">
-  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/postresql.svg">
+I am a Software Developer from Pune, India. 🤓</br>
+I'm currently working at Mortgagekart as a SDE. 👨‍💻</br>
+I have projects in Python, OOPS, SQL, ML, Flask and Nodejs. 💻</br>
+Feel free to contact. 📱
 </p>
+
+<h3 align="center">Tools 🛠️ and Technologies 💻</h3>
+
+![C](images/c.svg | height=25)
+![C++](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/cpp.svg)
+![Java](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/java-original.svg)
+![Python](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/python-original.svg)
+![HTML](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/html5.svg)
+![CSS](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/css.svg)
+![Nodejs](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/nodejs.jpg)
+![Flask](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/flask.svg)
+![Javascript](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/javascript.svg)
+![MySQL](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/mysql.svg)
+![PostgreSQL](https://github.com/sidvsukhi/sidvsukhi/blob/master/images/postgresql.svg)
+
 
 <!---
 <p align="center">
