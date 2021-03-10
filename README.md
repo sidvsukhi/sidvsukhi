@@ -6,8 +6,8 @@
 
 <h3 align="center">Tools 🛠️ and Technologies 💻</h3>
 <p align="center">
-  <img src="https://github.com/sidvsukhi/sidvsukhi/images/c.svg">
-  <img src="https://github.com/sidvsukhi/sidvsukhi/images/nodejs.jpg">
+  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/c.svg">
+  <img height="25" src="https://github.com/sidvsukhi/sidvsukhi/blob/master/images/nodejs.jpg">
 </p>
 
 
