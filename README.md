@@ -6,10 +6,10 @@
 
 <h3 align="center">About me 🤨</h3>
 <p align="center">
-  I am a <b>Software Developer</b> from Pune, India. 🤓</br>
-I'm currently working at <b>Mortgagekart as a SDE</b>. 👨‍💻</br>
-I have projects in <b>Python, OOPS, SQL, ML, Flask and Nodejs</b>. 💻</br>
-Feel free to contact. 📱
+  I'm a <b>Software Developer</b> from Pune, India. 🤓</br>
+  I'm currently working at <b>Mortgagekart as a SDE</b>. 👨‍💻</br>
+  I have projects in <b>Python, OOPS, SQL, ML, Flask and Nodejs</b>. 💻</br>
+  Feel free to contact. 📱
 </p>
 
 <h3 align="center">Languages 🛠️ and Frameworks 💻</h3>
