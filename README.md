@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Siddhant 😎</h2>
+<h2 align="center">Hi there 👋, I am Siddhant 😎</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"/>
@@ -12,7 +12,7 @@ I have projects in <b>Python, OOPS, SQL, ML, Flask and Nodejs</b>. 💻</br>
 Feel free to contact. 📱
 </p>
 
-<h3 align="center">Languages and Frameworks 🛠️ 💻</h3>
+<h3 align="center">Languages 🛠️ and Frameworks 💻</h3>
 <p align="center">
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/c.svg" width="25" height="25"/>
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/cpp.svg" width="25" height="25"/>
