@@ -32,11 +32,11 @@
 </p>
 
 <h3 align="center">Interests 🤩</h3>
-<p float="left">
+<p float="center">
+  <img src="https://media.giphy.com/media/j3HQ1zWosr1NS/giphy.gif"> <br/>
   📺 Binge watching movies/series <br/>
   🎢 Adventure activites <br/>
   🎮 Sports and Gaming <br/>
   🍔 Foodie <br/> 
   🎼 Music <br/> </p>
 </p>
-<img float="right" src="https://media.giphy.com/media/j3HQ1zWosr1NS/giphy.gif">
