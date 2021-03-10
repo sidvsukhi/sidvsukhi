@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="center">Interests 🤩</h3>
-<p align="center">
+<p>
   📺 Binge watching movies/series <br/>
   🎢 Adventure activites <br/>
   🎮 Sports and Gaming <br/>
