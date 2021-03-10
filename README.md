@@ -13,14 +13,16 @@ Feel free to contact. 📱
 </p>
 
 <h3 align="center">Tools 🛠️ and Technologies 💻</h3>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/c.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/cpp.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/java-original.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/python-original.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/html5.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/css.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/nodejs.jpg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/flask.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/javascript.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/mysql.svg" width="25" height="25"/>
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/postgresql.svg" width="25" height="25"/>
+<p align="center">
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/c.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/cpp.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/java-original.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/python-original.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/html5.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/css.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/nodejs.jpg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/flask.png" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/javascript.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/mysql.svg" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/postgresql.svg" width="25" height="25"/>
+</p>
