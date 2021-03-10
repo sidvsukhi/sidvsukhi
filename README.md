@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I am Siddhant 😎</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 </p>
 
 
