@@ -1,14 +1,17 @@
-### Hi, I am Siddhant 😎
+<h2 align="center">Hi, I am Siddhant 😎</h2>
 
-**sidvsukhi/sidvsukhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<p align="center">
+- 🔭 I’m currently working on ...<br/>
+- 🌱 I’m currently learning ...<br/>
+- 👯 I’m looking to collaborate on ...<br/>
+- 🤔 I’m looking for help with ...<br/>
+- 💬 Ask me about ...<br/>
+- 📫 How to reach me: ...<br/>
+- 😄 Pronouns: ...<br/>
 - ⚡ Fun fact: ...
+</p>
