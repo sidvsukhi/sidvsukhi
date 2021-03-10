@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"/>
 </p>
 
-<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/line.png" width="1000" height="100"/>
+<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/line.png" width="1200" height="25"/>
 
 <h3 align="center">About me 🤨</h3>
 <p align="center">
@@ -13,6 +13,8 @@
   I have projects in <b>Python, OOPS, SQL, ML, Flask and Nodejs</b>. 💻</br>
   Feel free to contact. 📱
 </p>
+
+<img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/line.png" width="1200" height="25"/>
 
 <h3 align="center">Languages 🛠️ and Frameworks 💻</h3>
 <p align="center">
