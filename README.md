@@ -30,3 +30,12 @@
 - 😄 Pronouns: ...<br/>
 - ⚡ Fun fact: ...
 </p>
+
+<h3 align="center">Interests 🤩</h3>
+<p align="center">
+  📺 Binge watching movies/series <br/>
+  🎢 Adventure activites <br/>
+  🎮 Sports and Gaming <br/>
+  🍔 Foodie <br/>
+  🎼 Music <br/>
+</p>
