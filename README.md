@@ -32,10 +32,10 @@
 </p>
 
 <h3 align="center">Interests 🤩</h3>
-<p>
-  📺 Binge watching movies/series <br/>
-  🎢 Adventure activites <br/>
-  🎮 Sports and Gaming <br/>
-  🍔 Foodie <br/>
-  🎼 Music <br/>
+<p float="left">
+  <img float="right" src="https://media.giphy.com/media/j3HQ1zWosr1NS/giphy.gif">
+  📺 Binge watching movies/series
+  🎢 Adventure activites
+  🎮 Sports and Gaming
+  🍔 Foodie <br/> 🎼 Music <br/> </p>
 </p>
