@@ -30,4 +30,5 @@
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/mysql.svg" width="25" height="25"/>
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/postgresql.svg" width="25" height="25"/>
   <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/tf.png" width="25" height="25"/>
+  <img src="https://github.com/sidvsukhi/sidvsukhi/blob/main/images/docker.png" width="25" height="25"/>
 </p>
