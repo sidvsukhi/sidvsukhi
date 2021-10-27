@@ -8,9 +8,10 @@
 
 <h3 align="center">About me 🤨</h3>
 <p align="center">
-  I'm a <b>Software Developer</b> from Pune, India. 🤓</br>
-  I'm currently working at <b>Mortgagekart as a SDE</b>. 👨‍💻</br>
-  I have projects in <b>Python, OOPS, SQL, ML, Flask and Nodejs</b>. 💻</br>
+  I'm a <b>Master's in Data Science</b> student at Northeastern University, Boston. 🤓</br>
+  I am a Data Science enthusiast, working to develop and implement feasible solutions to broadly relevant problems. My expertise includes Python, C/C++, SQL, Tensorflow, OpenCV, Nodejs, Docker, and CI/CD pipelining. 💻 </br>
+  I enjoy technical blogging, hackathons, and brain-teasers. </br>
+  My specific fields of interest include Computer Vision, Natural Language Processing, and Automation. 👨‍💻</br>
   Feel free to contact. 📱
 </p>
 
